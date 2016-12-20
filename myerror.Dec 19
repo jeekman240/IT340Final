@@ -1,0 +1,171 @@
+Dec 14 16:18:30 debian kernel: [    1.114895] ACPI: Using IOAPIC for interrupt routing
+Dec 14 16:18:30 debian kernel: [    1.593681] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+Dec 14 16:18:30 debian kernel: [    1.594262] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 10 *11)
+Dec 14 16:18:30 debian kernel: [    1.594484] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 9 *10 11)
+Dec 14 16:18:30 debian kernel: [    1.594686] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 *9 10 11)
+Dec 14 16:18:30 debian kernel: [    5.142072] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input3
+Dec 14 16:18:30 debian kernel: [    5.142299] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 14 16:18:30 debian kernel: [   21.708682] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+Dec 14 16:57:26 debian assert_20161214165726_49.dmp[1965]: error: libcurl.so: cannot open shared object file: No such file or directory
+Dec 14 17:07:14 debian kernel: [ 2954.331599] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0002/input/input8
+Dec 14 17:07:14 debian kernel: [ 2954.331956] hid-generic 0003:80EE:0021.0002: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 14 21:11:00 debian kernel: [    0.320378] ACPI: Using IOAPIC for interrupt routing
+Dec 14 21:11:00 debian kernel: [    0.421686] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+Dec 14 21:11:00 debian kernel: [    0.421994] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 10 *11)
+Dec 14 21:11:00 debian kernel: [    0.422124] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 9 *10 11)
+Dec 14 21:11:00 debian kernel: [    0.422252] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 *9 10 11)
+Dec 14 21:11:00 debian kernel: [    2.021297] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input3
+Dec 14 21:11:00 debian kernel: [    2.021447] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 14 21:11:00 debian kernel: [    8.414664] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+Dec 14 21:18:39 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 14 21:18:39 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 14 21:18:39 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 14 21:20:49 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 14 21:20:49 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 14 21:20:49 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 15 00:26:52 debian nagios: SERVICE ALERT: localhost;Check Logs;UNKNOWN;SOFT;1;Log check error: Log file /var/log/messages is not readable!
+Dec 15 00:27:52 debian nagios: SERVICE ALERT: localhost;Check Logs;UNKNOWN;SOFT;2;Log check error: Log file /var/log/messages is not readable!
+Dec 15 00:34:30 debian kernel: [12223.476194] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0002/input/input8
+Dec 15 00:34:30 debian kernel: [12223.476526] hid-generic 0003:80EE:0021.0002: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 15 16:42:59 debian nagios: Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=12862)
+Dec 15 17:33:52 debian nagios: Bailing out due to errors encountered while running the pre-flight check.  Run Nagios from the command line with the -v option to verify your config before restarting. (PID=14900)
+Dec 16 15:35:02 debian kernel: [67986.018836] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0003/input/input9
+Dec 16 15:35:02 debian kernel: [67986.019249] hid-generic 0003:80EE:0021.0003: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 16 17:50:35 debian kernel: [76101.581261] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0004/input/input10
+Dec 16 17:50:35 debian kernel: [76101.581669] hid-generic 0003:80EE:0021.0004: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 17 23:29:22 debian kernel: [138329.103757] check_game[9692]: segfault at 0 ip 0000000000401de3 sp 00007fff1d233450 error 4 in check_game[400000+b000]
+Dec 17 23:31:06 debian kernel: [138433.298562] check_game[9703]: segfault at 0 ip 0000000000401de3 sp 00007ffc7b6c3ee0 error 4 in check_game[400000+b000]
+Dec 17 23:31:58 debian kernel: [138485.688095] check_game[9717]: segfault at 0 ip 0000000000401de3 sp 00007ffd3c59b340 error 4 in check_game[400000+b000]
+Dec 17 23:34:27 debian kernel: [138634.523280] check_game[9753]: segfault at 0 ip 0000000000401de3 sp 00007ffd2bc3a8c0 error 4 in check_game[400000+b000]
+Dec 17 23:34:43 debian kernel: [138650.533630] check_game[9759]: segfault at 0 ip 0000000000401de3 sp 00007fffdbd59870 error 4 in check_game[400000+b000]
+Dec 17 23:34:48 debian kernel: [138655.493467] check_game[9761]: segfault at 0 ip 0000000000401de3 sp 00007ffc8a5f8b50 error 4 in check_game[400000+b000]
+Dec 17 23:36:24 debian kernel: [138750.959166] check_game[10068]: segfault at 0 ip 0000000000401de3 sp 00007ffc571fd2f0 error 4 in check_game[400000+b000]
+Dec 17 23:43:05 debian kernel: [139152.169036] check_game[22070]: segfault at 0 ip 0000000000401de3 sp 00007ffee6126980 error 4 in check_game[400000+b000]
+Dec 17 23:44:13 debian kernel: [139220.674102] check_game[22292]: segfault at 0 ip 0000000000401de3 sp 00007ffdf35137a0 error 4 in check_game[400000+b000]
+Dec 17 23:44:30 debian kernel: [139237.419127] check_game[22295]: segfault at 0 ip 0000000000401de3 sp 00007fffaa17eac0 error 4 in check_game[400000+b000]
+Dec 17 23:56:35 debian nagios: Bailing out due to errors encountered while running the pre-flight check.  Run Nagios from the command line with the -v option to verify your config before restarting. (PID=23618)
+Dec 18 00:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 01:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 02:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 14:06:06 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 14:06:06 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 16:06:13 debian kernel: [158818.106386] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0005/input/input11
+Dec 18 16:06:13 debian kernel: [158818.107070] hid-generic 0003:80EE:0021.0005: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+
+62 errors found in the last 5 days 
+
+Dec 18 00:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 01:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 02:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 14:06:06 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 14:06:06 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 16:06:13 debian kernel: [158818.106386] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0005/input/input11
+Dec 18 16:06:13 debian kernel: [158818.107070] hid-generic 0003:80EE:0021.0005: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+
+16 errors found in the last 1 days 
+
+Dec 18 00:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 01:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 02:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 14:06:06 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 14:06:06 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 16:06:13 debian kernel: [158818.106386] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0005/input/input11
+Dec 18 16:06:13 debian kernel: [158818.107070] hid-generic 0003:80EE:0021.0005: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+
+16 errors found in the last 1 day(s) 
+
+Dec 16 15:35:02 debian kernel: [67986.018836] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0003/input/input9
+Dec 16 15:35:02 debian kernel: [67986.019249] hid-generic 0003:80EE:0021.0003: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 16 17:50:35 debian kernel: [76101.581261] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0004/input/input10
+Dec 16 17:50:35 debian kernel: [76101.581669] hid-generic 0003:80EE:0021.0004: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 17 23:29:22 debian kernel: [138329.103757] check_game[9692]: segfault at 0 ip 0000000000401de3 sp 00007fff1d233450 error 4 in check_game[400000+b000]
+Dec 17 23:31:06 debian kernel: [138433.298562] check_game[9703]: segfault at 0 ip 0000000000401de3 sp 00007ffc7b6c3ee0 error 4 in check_game[400000+b000]
+Dec 17 23:31:58 debian kernel: [138485.688095] check_game[9717]: segfault at 0 ip 0000000000401de3 sp 00007ffd3c59b340 error 4 in check_game[400000+b000]
+Dec 17 23:34:27 debian kernel: [138634.523280] check_game[9753]: segfault at 0 ip 0000000000401de3 sp 00007ffd2bc3a8c0 error 4 in check_game[400000+b000]
+Dec 17 23:34:43 debian kernel: [138650.533630] check_game[9759]: segfault at 0 ip 0000000000401de3 sp 00007fffdbd59870 error 4 in check_game[400000+b000]
+Dec 17 23:34:48 debian kernel: [138655.493467] check_game[9761]: segfault at 0 ip 0000000000401de3 sp 00007ffc8a5f8b50 error 4 in check_game[400000+b000]
+Dec 17 23:36:24 debian kernel: [138750.959166] check_game[10068]: segfault at 0 ip 0000000000401de3 sp 00007ffc571fd2f0 error 4 in check_game[400000+b000]
+Dec 17 23:43:05 debian kernel: [139152.169036] check_game[22070]: segfault at 0 ip 0000000000401de3 sp 00007ffee6126980 error 4 in check_game[400000+b000]
+Dec 17 23:44:13 debian kernel: [139220.674102] check_game[22292]: segfault at 0 ip 0000000000401de3 sp 00007ffdf35137a0 error 4 in check_game[400000+b000]
+Dec 17 23:44:30 debian kernel: [139237.419127] check_game[22295]: segfault at 0 ip 0000000000401de3 sp 00007fffaa17eac0 error 4 in check_game[400000+b000]
+Dec 17 23:56:35 debian nagios: Bailing out due to errors encountered while running the pre-flight check.  Run Nagios from the command line with the -v option to verify your config before restarting. (PID=23618)
+Dec 18 00:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 01:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 02:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 14:06:06 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 14:06:06 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 16:06:13 debian kernel: [158818.106386] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0005/input/input11
+Dec 18 16:06:13 debian kernel: [158818.107070] hid-generic 0003:80EE:0021.0005: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+
+31 errors found in the last 3 day(s) 
+
+Dec 16 15:35:02 debian kernel: [67986.018836] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0003/input/input9
+Dec 16 15:35:02 debian kernel: [67986.019249] hid-generic 0003:80EE:0021.0003: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 16 17:50:35 debian kernel: [76101.581261] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0004/input/input10
+Dec 16 17:50:35 debian kernel: [76101.581669] hid-generic 0003:80EE:0021.0004: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Dec 17 23:29:22 debian kernel: [138329.103757] check_game[9692]: segfault at 0 ip 0000000000401de3 sp 00007fff1d233450 error 4 in check_game[400000+b000]
+Dec 17 23:31:06 debian kernel: [138433.298562] check_game[9703]: segfault at 0 ip 0000000000401de3 sp 00007ffc7b6c3ee0 error 4 in check_game[400000+b000]
+Dec 17 23:31:58 debian kernel: [138485.688095] check_game[9717]: segfault at 0 ip 0000000000401de3 sp 00007ffd3c59b340 error 4 in check_game[400000+b000]
+Dec 17 23:34:27 debian kernel: [138634.523280] check_game[9753]: segfault at 0 ip 0000000000401de3 sp 00007ffd2bc3a8c0 error 4 in check_game[400000+b000]
+Dec 17 23:34:43 debian kernel: [138650.533630] check_game[9759]: segfault at 0 ip 0000000000401de3 sp 00007fffdbd59870 error 4 in check_game[400000+b000]
+Dec 17 23:34:48 debian kernel: [138655.493467] check_game[9761]: segfault at 0 ip 0000000000401de3 sp 00007ffc8a5f8b50 error 4 in check_game[400000+b000]
+Dec 17 23:36:24 debian kernel: [138750.959166] check_game[10068]: segfault at 0 ip 0000000000401de3 sp 00007ffc571fd2f0 error 4 in check_game[400000+b000]
+Dec 17 23:43:05 debian kernel: [139152.169036] check_game[22070]: segfault at 0 ip 0000000000401de3 sp 00007ffee6126980 error 4 in check_game[400000+b000]
+Dec 17 23:44:13 debian kernel: [139220.674102] check_game[22292]: segfault at 0 ip 0000000000401de3 sp 00007ffdf35137a0 error 4 in check_game[400000+b000]
+Dec 17 23:44:30 debian kernel: [139237.419127] check_game[22295]: segfault at 0 ip 0000000000401de3 sp 00007fffaa17eac0 error 4 in check_game[400000+b000]
+Dec 17 23:56:35 debian nagios: Bailing out due to errors encountered while running the pre-flight check.  Run Nagios from the command line with the -v option to verify your config before restarting. (PID=23618)
+Dec 18 00:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 00:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 01:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 01:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 02:05:43 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 02:05:43 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 14:06:06 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 14:06:06 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   early_timeout=0; exited_ok=1; wait_status=32512; error_code=0;
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 01: /bin/sh: 1: /bin/mail: not found
+Dec 18 15:11:04 debian nagios: wproc:   stderr line 02: /usr/bin/printf: write error: Broken pipe
+Dec 18 16:06:13 debian kernel: [158818.106386] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0005/input/input11
+Dec 18 16:06:13 debian kernel: [158818.107070] hid-generic 0003:80EE:0021.0005: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+
+31 errors found in the last 3 day(s) 
+
